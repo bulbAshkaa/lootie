@@ -1,0 +1,1236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2024-07-24T15:07:31+03:00">
+	<shop>
+		<name>Сруб Сервис Строй</name>
+		<company>Сруб Сервис Строй</company>
+		<url>https://srubservistroy.ru</url>
+		<platform>Tilda Publishing</platform>
+		<version>1.0</version>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<categories>
+			<category id="283542507742">All</category>
+			<category id="529513168292">Дом</category>
+			<category id="181731707502">Баня</category>
+			<category id="782270388902">Дом-баня</category>
+		</categories>
+		<offers>
+		<offer id="622900207732">
+			<name>Дом из Бруса 1</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3736-3466-4461-a231-393133333334/16123111.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6532-6265-4336-a132-646437386236/80234300.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6435-6538-4734-b863-316462656263/90640566.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6462-6631-4438-b431-346366393561/38776231.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3137-6164-4031-a339-623864643436/23166890.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3063-3962-4466-a166-346266653139/23402829.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6433-6462-4136-a135-336333393835/48714869.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3531-3462-4733-b631-336537343131/71555657.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3432-3132-4465-a633-313263616538/70814655.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/622900207732-dom-iz-brusa-1</url>
+			<count>9999</count>
+			<price>3080000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">200-300м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="233148672542">
+			<name>Дом из Бруса 2</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3233-6261-4238-a435-633430626435/81651251.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6564-3430-4164-b931-326465373566/66943239.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3861-3363-4438-b563-383531663432/83617588.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3430-3161-4762-b732-333834323165/10894755.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6332-6132-4036-b034-366132656564/87906156.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3733-3365-4632-b434-373461386262/83403920.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6438-3432-4362-b137-393230376662/69996836.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3539-3864-4336-b035-653139616531/76960565.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6161-3431-4334-a163-656330323730/82335553.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/233148672542-dom-iz-brusa-2</url>
+			<count>9999</count>
+			<price>1485000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="849682082232">
+			<name>Дом из Бруса 3</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6332-3933-4263-a334-373862613166/76380449.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3865-6663-4033-b766-653266353661/11254748.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3466-3661-4632-b265-396235346436/39604326.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3765-6230-4631-b430-306134343638/91916446.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3865-6139-4237-b238-616564646431/53754813.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3661-3364-4632-b066-646235623564/33340653.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3133-6332-4036-b334-376366373437/65940864.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/849682082232-dom-iz-brusa-3</url>
+			<count>9999</count>
+			<price>2420000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="573704142592">
+			<name>Дом из Бревна 4</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3838-6265-4131-b137-323432323562/69315767.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6135-6436-4766-b836-353136393537/72972247.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6337-3730-4837-b663-303935633133/92764522.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3562-3961-4835-a465-663037623736/97989826.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3330-6436-4063-a636-326233326137/26556664.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3164-6164-4261-b463-393232613864/71121441.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3561-3232-4539-a539-363965303932/55204770.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3031-6264-4531-b665-306337313130/41488136.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3433-6664-4230-b632-643662663137/27164556.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/573704142592-dom-iz-brevna-4</url>
+			<count>9999</count>
+			<price>2295000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="383830961232">
+			<name>Дом из Бревна 5</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6330-3266-4536-b663-373263333965/73677410.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3065-3831-4564-b163-356636633332/19354503.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6464-3538-4463-b665-333664363263/99373556.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3739-3931-4631-b138-613062663735/18396263.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6664-3138-4764-b539-613331393961/86915794.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6266-3334-4363-a437-373064366332/66157641.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6333-3765-4661-a666-663865656134/89683638.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3266-3636-4736-a264-633931363638/80480017.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3530-3265-4438-b230-323263313032/86159937.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/383830961232-dom-iz-brevna-5</url>
+			<count>9999</count>
+			<price>1360000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="365261376102">
+			<name>Дом из Бруса 6</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3836-3364-4435-b535-613231396638/14410993.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6436-3631-4565-b537-663233343262/60189020.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3431-6364-4761-b764-346335636333/11673539.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3739-3431-4164-b766-646233313865/48171714.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3731-3431-4331-a164-306339336163/58727460.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3639-3261-4430-b635-323337383738/17643149.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6639-3834-4833-b334-333466373738/61915559.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3761-3239-4834-b632-633362353066/34255259.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3163-3862-4635-a439-653064363536/87048337.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/365261376102-dom-iz-brusa-6</url>
+			<count>9999</count>
+			<price>2915000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="821821293222">
+			<name>Дом из Бруса 7</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3939-3564-4635-b131-353030653731/16588447.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3837-6231-4134-b032-643138646638/65207382.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3666-3863-4537-b464-656136363035/33907549.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6330-3236-4230-b266-393037393164/75802911.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3435-3863-4966-a136-346632613436/33400877.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3339-3837-4836-a536-343335346164/89482235.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6635-6333-4665-a436-303134666561/93362817.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6566-3365-4435-a134-303061656435/72689460.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6338-3230-4739-a535-313136383533/28969507.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/821821293222-dom-iz-brusa-7</url>
+			<count>9999</count>
+			<price>2475000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="543732041882">
+			<name>Дом из Бревна 8</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3861-3234-4835-a262-326135383261/89397463.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6164-6338-4538-a637-306463353765/57358212.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3438-6531-4461-b432-343033316338/56109707.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3862-3432-4030-b031-323537666465/11392820.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6631-3635-4738-b264-633366353234/98488868.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6131-3665-4433-b837-613038623564/47338667.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6431-3162-4237-b561-313134333136/89054413.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/543732041882-dom-iz-brevna-8</url>
+			<count>9999</count>
+			<price>1054000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="699838480422">
+			<name>Дом из Бруса 9</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6236-3839-4136-b261-343937646330/31898591.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6365-6463-4466-a630-346263623235/53074316.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3565-3530-4339-a163-616434306262/25121285.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3538-3239-4263-b464-363165303733/40698649.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6631-3939-4938-b930-353532613937/72657385.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6165-6335-4435-b232-313061646137/33678767.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6536-3164-4065-b363-303766333562/58236291.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/699838480422-dom-iz-brusa-9</url>
+			<count>9999</count>
+			<price>1595000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="740340339212">
+			<name>Дом из Бруса 10</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3230-3539-4535-b231-643363643039/98592979.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6138-3866-4165-a262-653733613663/80303685.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3535-6261-4962-b935-343134653663/88294251.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3662-3866-4532-b531-383338386564/49323755.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3639-3231-4030-b931-613436356234/27902997.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3232-3335-4161-b061-366630646633/93542193.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3834-3261-4863-a666-633163633834/83457164.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6136-3762-4334-b161-356162396439/72402454.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6339-3530-4666-b362-613738316439/31817502.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/740340339212-dom-iz-brusa-10</url>
+			<count>9999</count>
+			<price>2475000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="986185109402">
+			<name>Дом из Бревна 11</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6630-6537-4666-b330-623838396438/93768721.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6132-3161-4362-b063-383430623733/90925340.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3136-3034-4336-b561-616163653535/35624075.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3536-3138-4930-b963-383936623033/50409069.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3064-3561-4137-b738-633439306533/43283439.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3366-6638-4435-b331-333461623832/33597869.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3362-6265-4965-b633-343133316137/67474640.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6537-6538-4138-a334-376230376561/56764217.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/986185109402-dom-iz-brevna-11</url>
+			<count>9999</count>
+			<price>850000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="419512969312">
+			<name>Дом из Бруса 12</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3830-6139-4636-b232-373761636431/60834110.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6431-6537-4965-b938-316331343662/24800597.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3063-6565-4835-b230-666430316566/25092211.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3336-3736-4336-b665-646133326665/75156161.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3737-3835-4936-b338-346365623664/61168996.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3765-6231-4539-a531-303837323438/65066311.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3063-3163-4636-a637-323733376664/27953409.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/419512969312-dom-iz-brusa-12</url>
+			<count>9999</count>
+			<price>1980000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="800923929612">
+			<name>Дом из Бревна 13</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3835-3830-4232-b437-323962393465/77102281.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3539-3138-4034-b032-386564646332/93337319.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6366-6466-4938-b062-353961633539/92071403.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6666-6361-4233-b339-636261373263/83983165.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3461-3832-4639-b438-373666646461/42559706.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3736-3138-4233-b039-373230333338/56893876.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6362-6336-4862-b463-613531383565/80600609.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3762-3537-4433-a266-366265396339/51890695.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3730-3661-4663-a631-636661303062/94323240.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/800923929612-dom-iz-brevna-13</url>
+			<count>9999</count>
+			<price>1955000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">200-300м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="975625396032">
+			<name>Дом из Бревна 14</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3631-6630-4363-b364-636536303737/20362121.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3466-3830-4135-b163-323863646431/37770962.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6539-3338-4265-a661-316662643837/98958042.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6461-6131-4130-b062-656439303964/29553280.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6530-3635-4664-b366-323662323366/63298841.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3838-3036-4334-a232-613732653763/35034830.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3631-3339-4936-b431-653133666232/71441088.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/975625396032-dom-iz-brevna-14</url>
+			<count>9999</count>
+			<price>1105000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="417198744152">
+			<name>Дом из Бруса 15</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6330-6162-4839-a437-663263306135/90615801.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3533-3030-4131-a563-626666623634/97602065.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6431-3061-4862-a138-383433373131/76927135.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3632-3339-4462-a236-313430363731/61867733.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3765-6464-4162-a466-633831373164/91107403.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6132-3635-4565-b331-393966383035/80881970.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3963-3833-4331-a431-356234336436/20607967.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/417198744152-dom-iz-brusa-15</url>
+			<count>9999</count>
+			<price>1127500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="792934635032">
+			<name>Дом из Бруса 16</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3436-3230-4664-b361-306639376134/75992630.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6432-6562-4266-b930-636362653433/45169893.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6235-3839-4135-b430-616332363934/95592981.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3530-3363-4238-b066-353862613861/65142901.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3062-3031-4466-a438-623665303134/18092952.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3434-6435-4331-a162-643135663033/46078456.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6165-6434-4134-a233-626663393937/94878655.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6130-3663-4137-b132-356634623061/52765658.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/792934635032-dom-iz-brusa-16</url>
+			<count>9999</count>
+			<price>2227500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="898116324572">
+			<name>Дом из Бревна 17</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3539-3766-4666-b963-306461613231/53764276.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6533-3132-4164-b136-313030626363/58291133.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3232-6637-4438-b732-393937363662/67473265.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6363-3464-4630-b962-623562386333/94121600.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6430-3436-4830-a132-396532383234/10076764.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6262-3535-4566-b962-326662656266/31491182.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3964-3561-4434-a437-386430363532/37692539.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3261-3261-4136-b130-386534346661/37331682.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3430-6633-4564-b832-313332626162/93097713.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/898116324572-dom-iz-brevna-17</url>
+			<count>9999</count>
+			<price>1683000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="106797856802">
+			<name>Дом из Бревна 18</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3135-6461-4339-b961-643466373363/38938546.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3830-6261-4165-b439-386430666364/60326787.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3932-6230-4661-a563-666236353835/77136244.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6239-3831-4535-b930-376434613337/98744406.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3266-3262-4430-b564-316236346133/39817444.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3536-6661-4532-b531-626366653937/44805826.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6637-3233-4166-a463-303130613338/77238518.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6336-3861-4435-b265-626232396635/78785791.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6634-3231-4663-b433-303539333466/95133290.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/106797856802-dom-iz-brevna-18</url>
+			<count>9999</count>
+			<price>1904000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">200-300м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="716265605702">
+			<name>Дом из Бруса 19</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3432-3433-4966-a661-646436633033/16284307.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3461-3536-4030-b032-316564323662/91339963.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6661-3435-4261-b334-336332363534/46167256.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3762-6366-4439-b539-666334366637/45240457.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6462-6538-4238-b639-343737353163/45859744.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3936-6436-4434-a263-666563653837/79814829.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3162-6634-4334-b033-393162396530/79075960.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3333-3861-4165-b063-656161303762/10377848.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3662-3531-4764-a432-663631376634/74157153.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/716265605702-dom-iz-brusa-19</url>
+			<count>9999</count>
+			<price>4950000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">300-400м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="383551447112">
+			<name>Дом из Бруса 20</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3031-6338-4730-b139-346566383262/13540893.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6436-3063-4430-a337-396439313263/94551705.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3337-3338-4038-a163-633063303531/43060218.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6566-3639-4336-a264-663566353964/39185433.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3632-6634-4335-a332-333033396365/18362585.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6137-3135-4361-a337-333266346564/88248041.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3061-6130-4738-a165-356164356537/10029308.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3335-3730-4234-a461-356534663163/80481047.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3462-3931-4334-b135-346630313165/90105209.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/383551447112-dom-iz-brusa-20</url>
+			<count>9999</count>
+			<price>2750000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="806744452852">
+			<name>Дом из Бруса 21</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6139-6534-4535-b663-663266616635/67726876.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6363-3462-4164-b333-343832343536/74179447.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3337-3334-4235-b731-656231353638/89321131.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6536-3438-4532-a166-353832383234/99395039.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3039-3634-4631-b262-633131663662/38117211.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3339-6463-4332-b733-623637356261/86242403.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3735-3138-4536-b736-363561333932/92199694.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3931-6237-4432-b331-613065313466/20297336.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3765-3735-4266-b037-643563313761/74040566.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/806744452852-dom-iz-brusa-21</url>
+			<count>9999</count>
+			<price>2777500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="266888398112">
+			<name>Дом из Бруса 22</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3831-6331-4339-b636-623566653061/85296722.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6538-6638-4132-b731-366434613161/43585281.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3765-6535-4562-b834-653966346136/42675993.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6638-6464-4561-a337-636264326134/45788001.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3530-6531-4236-a339-383036373935/77936531.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3164-3637-4437-a538-363436636365/54555450.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6334-6664-4238-b562-363139373539/44736695.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3631-6365-4633-b861-326535356231/15967363.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3439-3861-4161-b261-393861633338/13813328.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/266888398112-dom-iz-brusa-22</url>
+			<count>9999</count>
+			<price>3712500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">200-300м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="555334143202">
+			<name>Дом из Бруса 23</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6662-6437-4530-a136-313964373938/74124244.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6161-6338-4465-b136-363361306263/97865187.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3231-3930-4464-a464-303664303338/28885445.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3365-3063-4863-a531-636339376566/98481376.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6134-3536-4561-a561-346537393034/24969271.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3636-3833-4166-b265-303131343935/17390310.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6464-3637-4131-a161-633266373962/65824650.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6433-3165-4437-a563-323637616235/98956022.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3736-3230-4665-b338-306461656335/76527794.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/555334143202-dom-iz-brusa-23</url>
+			<count>9999</count>
+			<price>2530000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="783889113592">
+			<name>Дом из Бревна 24</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6561-3866-4133-b063-326135656230/19265926.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3135-3466-4562-a639-636464326432/91324277.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3864-6562-4166-b065-373666333464/82793758.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3136-3039-4436-b833-383836346635/11452297.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3737-6338-4639-a137-663330363330/91944991.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6463-3239-4566-a237-643664383238/88227869.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3661-6638-4936-b739-386332353337/60559022.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3066-6335-4265-b433-303431656666/78207176.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3835-3562-4131-a338-636531633039/88709636.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/783889113592-dom-iz-brevna-24</url>
+			<count>9999</count>
+			<price>1955000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="289885092922">
+			<name>Дом из Бруса 25</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6237-3634-4961-b764-373235303734/35196014.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3136-3461-4261-a666-383863313033/40037345.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6430-3535-4233-b631-373537633739/74382662.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3436-3865-4138-b463-636139646466/56690801.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3836-3162-4430-b639-303364363561/94329321.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3866-3531-4634-b937-363061643234/55144871.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6266-6336-4662-b565-316336303664/47865023.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/289885092922-dom-iz-brusa-25</url>
+			<count>9999</count>
+			<price>1210000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="428901709392">
+			<name>Дом из Бревна 26</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6535-6134-4838-b533-656462643031/48847915.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3861-3964-4466-a366-346230353965/48211457.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3938-6232-4365-b161-363635613236/10904887.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3039-3731-4535-b336-663933623935/57949922.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3263-6638-4632-b332-306632623061/13408403.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6666-6331-4663-a665-623866306233/87340072.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6632-3835-4661-b033-393535313964/70938750.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/428901709392-dom-iz-brevna-26</url>
+			<count>9999</count>
+			<price>1360000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="991242789182">
+			<name>Дом из Бруса 27</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3236-3835-4239-a235-653334373433/96728698.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3836-3666-4664-b439-373933393164/21702061.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6166-3034-4233-b139-616431616631/97788840.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3464-3530-4239-b335-633335313862/61504191.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6464-3031-4432-b234-633838646630/75710402.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6633-3738-4166-a135-653839393038/90642446.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3833-6334-4631-b037-363436613366/21930684.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/991242789182-dom-iz-brusa-27</url>
+			<count>9999</count>
+			<price>577500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="667776018372">
+			<name>Дом из Бруса 28</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6439-3434-4931-a361-663937313162/98243802.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3830-6462-4636-b936-303534356130/70769123.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6335-6165-4231-a439-366531353632/23751112.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3166-6362-4264-b233-336533656630/55272548.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6537-3364-4361-a539-376265326164/19266504.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6231-3234-4565-b739-353834373463/90526479.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3261-6437-4239-b332-616132343061/97641393.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3338-6235-4966-b434-393534646235/55843460.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6662-3031-4235-b466-353063323365/90449393.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/667776018372-dom-iz-brusa-28</url>
+			<count>9999</count>
+			<price>3850000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">200-300м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="405983293582">
+			<name>Дом из Бруса 29</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6233-6462-4166-b432-316135646664/82227655.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3762-3662-4533-b834-633232346263/11780326.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3663-3265-4764-a230-666237383166/11007684.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3134-3664-4130-a163-393962386436/82729836.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3965-3936-4762-a630-666165396364/69265545.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3664-3632-4735-b135-373235646437/22595628.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6138-3063-4464-b962-636362353534/97098780.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6336-3139-4461-a134-383637316130/18618638.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6430-3432-4232-b266-313532323763/48625936.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/405983293582-dom-iz-brusa-29</url>
+			<count>9999</count>
+			<price>2282500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">100-200м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="852942247502">
+			<name>Дом из Бруса 30</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3464-3039-4839-b932-373966393665/98601368.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6537-3533-4435-b738-303863663839/55937841.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3062-3831-4166-b236-653731316636/39104446.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3265-3533-4062-b964-303363376431/67192755.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3662-3364-4564-b533-393038613632/50299880.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3130-3763-4462-b532-646430333236/74802967.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3630-6466-4666-a162-626130303838/76809749.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/852942247502-dom-iz-brusa-30</url>
+			<count>9999</count>
+			<price>962500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="304724541292">
+			<name>Дом из Бревна 31</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3432-3664-4464-b635-303636393035/76357927.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3534-3336-4234-b930-306336653763/72535335.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6661-3765-4139-a330-646661373432/86987649.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6564-3939-4135-a265-663862376464/71712690.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3139-3234-4031-b564-313139663564/12845381.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6134-6164-4465-b436-656362353061/80055099.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6366-3463-4565-b965-333738396466/63063807.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6165-6265-4238-a530-303636323762/85210568.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/304724541292-dom-iz-brevna-31</url>
+			<count>9999</count>
+			<price>1870000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>529513168292</categoryId>
+			<param name="Размер дома">200-300м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="519979220282">
+			<name>Баня из бревна 1</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3031-3236-4766-a535-346334376661/44074287.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3063-6465-4730-b031-303533306134/73245387.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3137-3965-4131-b033-303761363230/19743303.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3030-3063-4265-b638-653732636238/59928858.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6432-6333-4039-a231-653330343463/25986444.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3263-3332-4133-b966-333735353964/62925754.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3533-6434-4737-b836-653461646536/27146117.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/519979220282-banya-iz-brevna-1</url>
+			<count>9999</count>
+			<price>612000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="503889876902">
+			<name>Баня из бревна 2</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6262-3437-4764-a234-623861613466/71863100.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6239-3739-4434-b539-363238656363/10383059.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3538-3539-4438-b133-313062626234/70814368.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3363-6339-4335-a462-396265366465/20402827.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3130-3664-4432-b538-623535663861/93739636.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6561-6466-4438-a365-616163346332/72089832.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3038-6661-4463-a162-353338373836/63758256.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6635-3438-4333-b761-303133316664/95618744.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6636-3139-4035-a134-396530313264/46265991.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/503889876902-banya-iz-brevna-2</url>
+			<count>9999</count>
+			<price>629000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="197750136302">
+			<name>Баня из бревна 3</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6237-6436-4030-a138-633837353830/34916281.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3237-6130-4737-b433-663064363435/33252243.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3366-3936-4635-a634-383966323437/67186626.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3433-3965-4363-b439-366334306638/94096891.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6261-3237-4161-a663-363766383230/65383980.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6135-3338-4364-b835-636638353631/80282066.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3661-3938-4666-a539-316239633038/84741741.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/197750136302-banya-iz-brevna-3</url>
+			<count>9999</count>
+			<price>340000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">&lt;30м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="316184820162">
+			<name>Баня из бревна 4</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6361-3335-4337-b739-663563393738/36409173.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6538-3739-4835-a166-366539666163/95670346.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6465-6161-4535-a362-363832353265/55317787.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3632-3166-4631-b966-363962333038/89368402.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3036-6632-4361-b933-386334386162/85745896.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6661-3335-4861-b163-626539333633/77513971.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3264-3134-4066-a665-363038656563/63747149.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/316184820162-banya-iz-brevna-4</url>
+			<count>9999</count>
+			<price>663000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="902708504612">
+			<name>Баня из бруса 5</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6663-6638-4439-b462-636336303666/51542119.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3733-3566-4631-b064-303963643132/58855492.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3534-3762-4230-a531-363535316431/73699621.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6261-6239-4134-b734-656638356466/94954855.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6565-6562-4437-a232-666531616364/80134709.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3736-3537-4139-b465-366363323535/93312640.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6234-3835-4862-b139-633565383737/96971938.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6230-6635-4538-b062-303030613930/28050225.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3466-6362-4137-b466-386263653361/37753628.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/902708504612-banya-iz-brusa-5</url>
+			<count>9999</count>
+			<price>962500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="893773949242">
+			<name>Баня из бревна 6</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6364-6161-4061-b630-323665623538/75648294.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6161-6532-4138-a231-613838666232/21133395.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3232-3739-4063-b066-373432393138/77977053.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3563-6466-4363-b637-373031356663/15399351.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6237-3261-4531-a365-636634663065/49577345.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3031-3832-4761-a532-386334383133/51473068.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6230-3865-4064-b338-333037653633/69916329.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/893773949242-banya-iz-brevna-6</url>
+			<count>9999</count>
+			<price>476000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="894018480112">
+			<name>Баня из бревна 7</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3235-3666-4061-b431-356130333532/83156370.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6164-3761-4763-a533-336138353238/57602458.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3339-3437-4031-b565-643637386535/81411502.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3131-6463-4636-b033-643963363536/40564694.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3633-3135-4663-b133-353366373939/11828490.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3532-6538-4266-a237-363935343433/51108679.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6535-3033-4133-b336-306535636164/43380163.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/894018480112-banya-iz-brevna-7</url>
+			<count>9999</count>
+			<price>612000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="908001317672">
+			<name>Баня из бревна 8</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6265-6166-4632-a363-376464366539/40915090.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3761-3237-4233-b433-356630326635/41231629.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6666-3232-4466-b338-643765303931/60693333.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3331-6664-4931-a233-343161323735/80173148.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3963-3035-4536-a363-376536323334/56141789.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3163-3562-4337-b961-656333623137/52656790.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6662-6165-4165-b639-393432613539/13689139.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3139-3162-4864-b266-343362616362/51021954.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/908001317672-banya-iz-brevna-8</url>
+			<count>9999</count>
+			<price>816000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="955389629122">
+			<name>Баня из бруса 9</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3538-3037-4232-b035-643561663666/80431956.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6261-3231-4338-a266-363237316534/38174016.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6332-3531-4161-b362-356530663863/99726266.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6532-3633-4465-a333-623633316461/68806378.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3332-6335-4538-a339-613963326635/24988961.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6564-3639-4337-b466-346531306232/24192557.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/955389629122-banya-iz-brusa-9</url>
+			<count>9999</count>
+			<price>770000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="394748972592">
+			<name>Баня из бревна 10</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6430-3931-4932-a631-373866643961/61716425.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6131-3035-4061-b436-376133373562/87536654.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3366-3661-4038-a361-363162613439/91812308.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3364-3531-4563-b562-326230643534/95521168.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6564-6265-4031-b562-373138633836/76538986.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3065-3362-4334-b766-323066633134/23198415.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/394748972592-banya-iz-brevna-10</url>
+			<count>9999</count>
+			<price>493000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="537212621582">
+			<name>Баня из бревна 11</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6239-3062-4130-b463-346132663963/65324520.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6563-6333-4561-a461-303238656439/40908784.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6133-6334-4234-a639-636265343238/84512806.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3638-3233-4131-b430-313935393734/26547741.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3236-3961-4230-b636-313339336261/38527284.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3562-3062-4433-b034-623161343465/46990411.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3436-3661-4339-a432-366262653265/36861382.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/537212621582-banya-iz-brevna-11</url>
+			<count>9999</count>
+			<price>629000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="600008788282">
+			<name>Баня из бревна 12</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6361-3435-4737-a137-623135323138/79180445.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6633-3330-4135-b365-656261303761/98055742.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3735-6163-4364-b436-393466313462/82126052.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3730-3034-4363-a362-373835653236/82766708.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3230-3865-4063-a536-653466343036/65289574.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3136-3135-4534-a232-356137393263/63948973.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6433-6235-4537-b330-373762616435/15187339.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/600008788282-banya-iz-brevna-12</url>
+			<count>9999</count>
+			<price>612000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="536728331382">
+			<name>Баня из бруса 13</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3039-3438-4635-b536-666337653134/47938778.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3239-3636-4838-a231-623966626530/85520714.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3733-6535-4566-b739-306465353964/73923710.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3861-3731-4437-b562-646462666238/46406987.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6662-3965-4539-b262-373965366362/47828711.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3337-3564-4166-b934-333030646533/49815350.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6633-6465-4563-b062-623463383166/44333441.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/536728331382-banya-iz-brusa-13</url>
+			<count>9999</count>
+			<price>220000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">&lt;30м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="853220597342">
+			<name>Баня из бруса 14</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3039-3438-4635-b536-666337653134/47938778.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3239-3636-4838-a231-623966626530/85520714.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3733-6535-4566-b739-306465353964/73923710.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3861-3731-4437-b562-646462666238/46406987.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6662-3965-4539-b262-373965366362/47828711.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3337-3564-4166-b934-333030646533/49815350.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6633-6465-4563-b062-623463383166/44333441.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/853220597342-banya-iz-brusa-14</url>
+			<count>9999</count>
+			<price>687500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">&lt;30м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="542445820642">
+			<name>Баня из бруса 15</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6437-3332-4162-a563-333561626163/75186901.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3939-3361-4038-a433-326635343839/90510679.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6635-3531-4134-a561-393435313938/90532051.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3963-3364-4837-b938-313936366261/24025720.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3034-3465-4538-a166-636236393832/50837757.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6334-3337-4836-b634-313739633831/97126928.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6638-3035-4234-b635-316437313831/63561136.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3336-3435-4839-a364-646639653235/65525590.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/542445820642-banya-iz-brusa-15</url>
+			<count>9999</count>
+			<price>632500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">&lt;30м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="717059271642">
+			<name>Баня из бревна 16</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6566-3437-4536-a664-653338336666/25884763.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3862-6336-4363-a336-643962356336/69138095.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3562-3130-4138-b163-383331383637/35345465.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3637-3165-4537-a163-613661383762/41820349.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3866-6263-4332-b538-383262356532/50578008.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3437-3664-4238-b466-643661306561/64193824.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3730-3735-4165-a364-363961303665/50087089.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3537-3236-4139-b062-643333303166/59391741.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6438-3130-4139-a166-336561383737/27810695.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/717059271642-banya-iz-brevna-16</url>
+			<count>9999</count>
+			<price>442000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">30-100м²</param>
+			<param name="Этажей">2</param>
+			<param name="Материал">Бревно</param>
+		</offer>
+		<offer id="364376772102">
+			<name>Баня из бруса 17</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6333-3738-4233-b737-306137653261/29323091.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6232-3730-4664-b266-363865316664/54892680.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6663-3434-4362-b139-663061316465/20092769.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6161-6366-4932-b764-636436616362/15631170.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6334-3866-4532-b334-333536636231/32652086.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3238-3131-4631-b735-346132323433/79362644.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3263-6532-4130-b039-323935313933/62339641.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/364376772102-banya-iz-brusa-17</url>
+			<count>9999</count>
+			<price>412500.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>181731707502</categoryId>
+			<param name="Размер дома">&lt;30м²</param>
+			<param name="Этажей">1</param>
+			<param name="Материал">Брус</param>
+		</offer>
+		<offer id="719427193132">
+			<name>Дом-баня из бревна 1</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3133-3539-4965-a537-336664303864/69016772.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3066-6530-4535-b465-323337653732/71117061.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3662-3839-4633-a363-376134633736/70338018.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3361-6636-4539-a265-373765393937/86272965.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3932-3632-4835-a534-313733306630/25694414.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3365-6136-4466-a532-373563616165/35695254.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3931-6361-4866-a265-323839306331/55531478.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3061-3236-4861-a364-636436353063/66293015.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3062-3065-4164-b132-653166323164/30782178.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/719427193132-dom-banya-iz-brevna-1</url>
+			<count>9999</count>
+			<price>663000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>782270388902</categoryId>
+		</offer>
+		<offer id="128533639592">
+			<name>Дом-баня из бруса 2</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor6438-3437-4336-b834-613865373833/54298625.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6330-3166-4331-a536-623561663937/94560869.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6331-3562-4065-b666-666263306632/36045920.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3435-3435-4261-b332-353163636532/15861952.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6230-3038-4531-a236-633832313564/46876815.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6534-6264-4034-b836-393165323565/88670797.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3737-3738-4662-a162-663361633332/60741551.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3633-3432-4138-a138-626265666231/64605185.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6261-6265-4236-b437-316235336164/75970892.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/128533639592-dom-banya-iz-brusa-2</url>
+			<count>9999</count>
+			<price>1485000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>782270388902</categoryId>
+		</offer>
+		<offer id="114718099952">
+			<name>Дом-баня из бревна 3</name>
+			<description>
+<![CDATA[
+Наша компания имеет собственное производство, благодаря чему мы можем можем гарантировать надежный дом, так как сами отвечаем за качество наших материалов
+]]>
+			</description>
+			<picture>https://static.tildacdn.com/stor3332-3633-4264-b230-363739376138/98048581.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3936-3834-4365-a565-376539663730/58454024.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6438-6563-4138-b735-656633316263/89513248.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3130-6336-4465-a530-343431333731/30440614.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3237-6462-4038-b232-373337613631/10782909.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3235-3636-4063-a162-633939663261/24255672.jpg</picture>
+			<picture>https://static.tildacdn.com/stor3638-3864-4465-b933-353638366134/96693980.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6331-3832-4237-b761-643565313835/63461660.jpg</picture>
+			<picture>https://static.tildacdn.com/stor6233-3763-4462-a639-623464623231/92259103.jpg</picture>
+			<url>https://srubservistroy.ru/tproduct/114718099952-dom-banya-iz-brevna-3</url>
+			<count>9999</count>
+			<price>1088000.00</price>
+			<currencyId>RUR</currencyId>
+			<categoryId>782270388902</categoryId>
+		</offer>
+		</offers>
+	</shop>
+</yml_catalog>
